@@ -1,0 +1,40 @@
+body{
+    background-color: gray;
+    margin: 0 100px 30px 100px;
+}
+
+.first-box, .second-box, .third-box {
+    border: 1px solid white;
+    background-color: white;
+    margin: 20px 0 20px 0;
+    border-radius: 10px;
+    width: 40%;
+    padding: 20px;
+}
+
+#green-button {
+    background-color: rgb(4, 114, 105);
+    color: white;
+    border-radius: 30px; 
+    width: 120px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#yellow-button {
+    background-color: rgb(232, 125, 10);
+    color: white;
+    border-radius: 30px; 
+    width: 120px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#purple-button {
+    background-color: rgb(156, 11, 156);
+    color: white;
+    border-radius: 30px; 
+    width: 120px;
+    padding: 10px;
+    cursor: pointer;
+}
